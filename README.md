@@ -1,4 +1,4 @@
-# Le epic hax0rs 
+# FlipArena
 
 This is a game web application developed by Le_epic_hax0rs. Please note that the website for this game is currently down and no longer accessible. However, you can still run the game locally on your machine using Docker.
 
